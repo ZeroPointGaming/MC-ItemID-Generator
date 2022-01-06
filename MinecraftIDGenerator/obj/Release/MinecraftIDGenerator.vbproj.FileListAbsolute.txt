@@ -1,0 +1,10 @@
+C:\Users\Redaj\Documents\Visual Studio 2015\Projects\MinecraftIDGenerator\MinecraftIDGenerator\bin\Release\MinecraftIDGenerator.exe.config
+C:\Users\Redaj\Documents\Visual Studio 2015\Projects\MinecraftIDGenerator\MinecraftIDGenerator\bin\Release\MinecraftIDGenerator.exe
+C:\Users\Redaj\Documents\Visual Studio 2015\Projects\MinecraftIDGenerator\MinecraftIDGenerator\bin\Release\MinecraftIDGenerator.pdb
+C:\Users\Redaj\Documents\Visual Studio 2015\Projects\MinecraftIDGenerator\MinecraftIDGenerator\bin\Release\MinecraftIDGenerator.xml
+C:\Users\Redaj\Documents\Visual Studio 2015\Projects\MinecraftIDGenerator\MinecraftIDGenerator\obj\Release\TekkitLiteShitSpammer.Form1.resources
+C:\Users\Redaj\Documents\Visual Studio 2015\Projects\MinecraftIDGenerator\MinecraftIDGenerator\obj\Release\TekkitLiteShitSpammer.Resources.resources
+C:\Users\Redaj\Documents\Visual Studio 2015\Projects\MinecraftIDGenerator\MinecraftIDGenerator\obj\Release\MinecraftIDGenerator.vbproj.GenerateResource.Cache
+C:\Users\Redaj\Documents\Visual Studio 2015\Projects\MinecraftIDGenerator\MinecraftIDGenerator\obj\Release\MinecraftIDGenerator.exe
+C:\Users\Redaj\Documents\Visual Studio 2015\Projects\MinecraftIDGenerator\MinecraftIDGenerator\obj\Release\MinecraftIDGenerator.xml
+C:\Users\Redaj\Documents\Visual Studio 2015\Projects\MinecraftIDGenerator\MinecraftIDGenerator\obj\Release\MinecraftIDGenerator.pdb

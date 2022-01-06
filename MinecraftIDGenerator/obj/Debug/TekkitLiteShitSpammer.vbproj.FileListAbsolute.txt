@@ -1,0 +1,11 @@
+C:\Users\Redaj\AppData\Local\Temporary Projects\TekkitLiteShitSpammer\bin\Debug\TekkitLiteShitSpammer.exe.config
+C:\Users\Redaj\AppData\Local\Temporary Projects\TekkitLiteShitSpammer\bin\Debug\TekkitLiteShitSpammer.exe
+C:\Users\Redaj\AppData\Local\Temporary Projects\TekkitLiteShitSpammer\bin\Debug\TekkitLiteShitSpammer.pdb
+C:\Users\Redaj\AppData\Local\Temporary Projects\TekkitLiteShitSpammer\bin\Debug\TekkitLiteShitSpammer.xml
+C:\Users\Redaj\AppData\Local\Temporary Projects\TekkitLiteShitSpammer\obj\Debug\TekkitLiteShitSpammer.vbprojResolveAssemblyReference.cache
+C:\Users\Redaj\AppData\Local\Temporary Projects\TekkitLiteShitSpammer\obj\Debug\TekkitLiteShitSpammer.Form1.resources
+C:\Users\Redaj\AppData\Local\Temporary Projects\TekkitLiteShitSpammer\obj\Debug\TekkitLiteShitSpammer.Resources.resources
+C:\Users\Redaj\AppData\Local\Temporary Projects\TekkitLiteShitSpammer\obj\Debug\TekkitLiteShitSpammer.vbproj.GenerateResource.Cache
+C:\Users\Redaj\AppData\Local\Temporary Projects\TekkitLiteShitSpammer\obj\Debug\TekkitLiteShitSpammer.exe
+C:\Users\Redaj\AppData\Local\Temporary Projects\TekkitLiteShitSpammer\obj\Debug\TekkitLiteShitSpammer.xml
+C:\Users\Redaj\AppData\Local\Temporary Projects\TekkitLiteShitSpammer\obj\Debug\TekkitLiteShitSpammer.pdb
